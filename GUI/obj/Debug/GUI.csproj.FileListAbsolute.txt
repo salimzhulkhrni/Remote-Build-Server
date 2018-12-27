@@ -1,0 +1,111 @@
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\GUI\obj\Debug\GUI.pdb

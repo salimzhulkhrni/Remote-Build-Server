@@ -1,0 +1,260 @@
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb

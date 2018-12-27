@@ -1,0 +1,672 @@
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\GUI\obj\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\GUI.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\GUI.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Client.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\MockRepo.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Mother_Builder.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Test_Harness.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Build_Server.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\MessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\IMessagePassingCommService.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\TestUtilities.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Client.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Client.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\MockRepo.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\MockRepo.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Mother_Builder.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Mother_Builder.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Test_Harness.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Test_Harness.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Build_Server.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\Build_Server.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\IMessagePassingCommService.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\bin\Debug\TestUtilities.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\Client_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\App.g.cs
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\MainWindow.baml
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\GUI.g.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\Client_GUI.csproj.GenerateResource.Cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\GUI.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\GUI\obj\Debug\GUI.pdb

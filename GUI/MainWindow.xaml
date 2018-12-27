@@ -1,0 +1,41 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="GUI" Height="800" Width="700">
+    <Grid Margin="0,0,3.4,-19.6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="111*"/>
+            <ColumnDefinition Width="151*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Repository files" Margin="26,41,107.4,399"/>
+        <ListBox x:Name="lb1" Margin="26,63,155.8,400" SelectionMode="Multiple" />
+        <Button Name="b2" Click="upload_Click" Margin="26,479,76.8,261">Add New Files In List</Button>
+        <ListBox x:Name="lb2" Margin="154,67,22.8,395" />
+
+        <Label Content="Selected Test Req. Files&#xD;&#xA;" Margin="154,45,397.4,395" Grid.ColumnSpan="2"/>
+        <Button Name="b3" Click ="choose_files_click" Grid.ColumnSpan="2" Content="Select Files to Create New Test Req" HorizontalAlignment="Left" Height="50" Margin="221,479,0,0" VerticalAlignment="Top" Width="195"/>
+        <ListBox x:Name="lb3" Margin="41.2,67,241.4,395" RenderTransformOrigin="2.675,0.464" Grid.Column="1" />
+
+        <Label Margin="41.2,42,241.4,398" Grid.Column="1" Content="   Test Requests"/>
+        <Button Name="b4" Click="create_test_req_Click" Content="Create NewTest Req" RenderTransformOrigin="0.39,7.177" Grid.Column="1" Margin="138.2,479,49.4,261"/>
+        <Button x:Name="b5" Click="build_Click" Content="Build" RenderTransformOrigin="0.39,7.177" Margin="191.2,557,49.4,187" Grid.Column="1"/>
+        <Button x:Name="b6" Click="kill_Click" Content="Kill Process" RenderTransformOrigin="0.39,7.177" Margin="191.2,632,49.4,109" Grid.Column="1"/>
+        <Button x:Name="b1" Content="Browse" HorizontalAlignment="Left" Height="44" Margin="62,415,0,0" VerticalAlignment="Top" Width="123" Click="Browse_Click"/>
+        <TextBox x:Name="b_txtbox" HorizontalAlignment="Left" Height="35" Margin="154,585,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="78" Grid.ColumnSpan="2"/>
+        <Label Content="Enter No: Child Builders" Margin="12,585,143.8,150"/>
+        <Label x:Name="Existing_Test_Req" Margin="161.2,40,123.4,400" Grid.Column="1" Content="  Existing Test Req"/>
+        <ListBox x:Name="lb4" Margin="161.2,68,123.4,395" SelectionMode="Multiple" Grid.Column="1" />
+        <Button x:Name="b7" Content="Confirm Selection From Existing Test Req" HorizontalAlignment="Left" Height="44" Margin="138.2,415,0,0" VerticalAlignment="Top" Width="228" Click="existing_test_request_click" Grid.Column="1"/>
+        <ListBox x:Name="lb5" Margin="279.2,68,3.4,393" RenderTransformOrigin="2.675,0.464" Grid.Column="1" />
+        <Label x:Name="Selected_From_Existing_Test_Req_" Margin="274.2,27,10.4,395" Grid.Column="1" Content="Selected From &#xD;&#xA;Existing Test Req."/>
+        <Button x:Name="b8" Click="exit_Click" Content="Exit App" RenderTransformOrigin="0.39,7.177" Margin="259,694,274.4,46" Grid.ColumnSpan="2"/>
+
+
+    </Grid>
+</Window>

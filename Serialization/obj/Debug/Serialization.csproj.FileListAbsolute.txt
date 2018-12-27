@@ -1,0 +1,131 @@
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Real\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Dummy\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Use To Work now -With-Changes in GUI\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - Almost Final\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Build_Successfull_Ver_1\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project_4_Child_Process_Create_DLL_File_Success_V_3\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_From_Here\Project_4_Child_Process_Build_Msgs_Also_Success_V_4\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Rework_03-Dec\Proj_4_Handled_Build_Logs_Build_Failure_V_10\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Dec_04_Exisiting_Test_Requests\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_DEc_5_Test_Cases_For_Kill_Build\Proj_4_Dec_04_Exisiting_Test_Requests\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_Rework_Here_Build_Failure\Proj_4_Handles_Test_Cases_In_UI_V18\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Proj_4_UI_Exit_Button\Proj_4_Build_Failure_In_Output_V19\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\Serialization\bin\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\Serialization\obj\Debug\Serialization.exe
+C:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\214429416_Proj_4_Final_Version_V_0.1\214429416_Proj_4_Final_Version_V_0.1\Serialization\obj\Debug\Serialization.pdb

@@ -1,0 +1,7 @@
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\bin\Debug\DllLoader.exe.config
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\bin\Debug\DllLoader.exe
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\bin\Debug\DllLoader.pdb
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\obj\Debug\DllLoader.csprojResolveAssemblyReference.cache
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\obj\Debug\DllLoader.csproj.CoreCompileInputs.cache
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\obj\Debug\DllLoader.exe
+C:\Users\Salim Zhulkhrni\source\repos\MockRepo\DllLoader\obj\Debug\DllLoader.pdb

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Salim Zhulkhrni</author>
+  <tests>
+    <TestElement>
+      <testName>test1</testName>
+      <testDriver>td1.cs</testDriver>
+      <testCodes>
+        <string>tc1.cs</string>
+        <string>tc2.cs</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test2</testName>
+      <testDriver>td2.cs</testDriver>
+      <testCodes>
+        <string>tc3.cs</string>
+        <string>tc4.cs</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test3</testName>
+      <testDriver>td3.cs</testDriver>
+      <testCodes>
+        <string>tc5.cs</string>
+        <string>tc6.cs</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test4</testName>
+      <testDriver>td4.cs</testDriver>
+      <testCodes>
+        <string>tc7.cs</string>
+        <string>tc8.cs</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test5</testName>
+      <testDriver>td5.cs</testDriver>
+      <testCodes>
+        <string>tc9.cs</string>
+        <string>tc10.cs</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>

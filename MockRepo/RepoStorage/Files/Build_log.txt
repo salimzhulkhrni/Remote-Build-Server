@@ -1,0 +1,8 @@
+ Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+error CS0016: Could not write to output file 'c:\Users\Salim Zhulkhrni\source\repos\Project 4- Start Here\Project-3 - FINAL_Version_1.1_FINAL - Name Change\Build_Server\Build_Server_Local_Storage\td2.dll' -- 'The process cannot access the file because it is being used by another process. '
+
