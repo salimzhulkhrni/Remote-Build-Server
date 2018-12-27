@@ -32,7 +32,7 @@ Now enter the number of child process to be created in the text box and click on
 
 Step 6:
 --------
-Click on the ‘Build’ button. All the test requests will be built and the result of each of the test requests will be displayed in the corresponding child process.
+Click on the ‘Build’ button. All the test requests will be built and the result of each of the test requests will be displayed in the corresponding child process's console window.
 
 Step 7:
 --------
